@@ -18,8 +18,8 @@ To prosty projekt **Pygame**, który pozwala użytkownikom rysować linię **sto
 ### 1️⃣ **Sklonuj repozytorium**
 
 ```sh
-git clone https://github.com/szymonkonopek/grafika-komputerowa.git
-cd grafika-komputerowa
+git clone https://github.com/szymonkonopek/interaktywny-rysyownik-lini.git
+cd interaktywny-rysyownik-lini
 ```
 
 ### 2️⃣ Utwórz wirtualne środowisko (Opcjonalnie, ale zalecane)
